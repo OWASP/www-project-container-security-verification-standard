@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP container security verification standard
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
