@@ -1,17 +1,17 @@
-### container security verification standard Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Container Security Verification Standard Information
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* Version: 1.0
+* Tags: _Builder_
+
+### Downloads
+
+* [Word document](https://github.com/OWASP/Container-Security-Verification-Standard/releases/download/v1.0/container_security_verification_standard_v1.0_en.docx)
+* [PDF document](https://github.com/OWASP/Container-Security-Verification-Standard/releases/download/v1.0/container_security_verification_standard_v1.0_en.pdf)
 
 ### Code Repository
-* [repo](#)
+
+* [Source](https://github.com/OWASP/Container-Security-Verification-Standard)
 
 ### Change Log
-* [changes](#)
 
+* [CHANGELOG.md](https://github.com/OWASP/Container-Security-Verification-Standard/blob/master/CHANGELOG.md)
