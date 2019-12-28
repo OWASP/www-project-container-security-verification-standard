@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Sven Vetsch](mailto://sven.vetsch@owasp.org)
+* [Sven Vetsch](mailto:sven.vetsch@owasp.org)
